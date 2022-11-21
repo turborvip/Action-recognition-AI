@@ -45,7 +45,7 @@ gesture_names = {0: 'E',
                  4: 'B'}
 
 
-image_path = 'data'
+image_path = './dataHandLang'
 models_path = 'models/saved_model.hdf5'
 rgb = False
 imageSize = 224
